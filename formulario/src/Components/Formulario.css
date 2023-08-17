@@ -1,0 +1,35 @@
+div form label input {
+  padding: 6px 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 5%;
+}
+
+
+form{
+    padding: 15px;
+    background-color: #b6b6b663;
+    width: auto;
+    display: flex;
+  flex-direction: column;
+  
+   
+}
+
+form button{
+    padding: 15 px;
+    color: white;
+    
+    background-color: #135296;
+    
+}
+
+div h2 {
+    color: blue
+  
+}
+
+.error {
+    color: red
+}
